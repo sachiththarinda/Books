@@ -14,18 +14,16 @@
 <table  class="login"  align="center" >
 <tr><th colspan=2><h1>Create Account</h1></th></tr>
 
-<tr><td><h4>User Name</h4></td><td><input type="text" name="username" placeholder="your user name..."></td></tr><br>
+<tr><td><h4>User Name</h4></td><td><input type="text" name="username" placeholder="User Name"></td></tr><br>
 
 
 <tr><td><h4>Gender</h4></td><td><h5><input type="radio" name="gender" value="male" checked> Male
 <input type="radio" name="gender" value="female"> Female</h5></td></tr>
 
-<tr><td><h4>Birthday</h4></td><td><input type="datetime-local"></td></tr>
 
+<tr><td><h4>E-mail</h4></td><td><input type="text" name="em" placeholder=" E-mail"></td></tr>
 
-<tr><td><h4>E-mail</h4></td><td><input type="text" name="em" placeholder="your e-mail..."></td></tr>
-
-<tr><td><h4>Phone</h4></td><td><input type="number" name"ph" placeholder="your phone number..."></td></tr>
+<tr><td><h4>Phone</h4></td><td><input type="number" name"ph" placeholder="Phone number"></td></tr>
 
 <tr><td><h4>Password</h4></td><td><input type="password"  name="pwd1"></td></tr>
 

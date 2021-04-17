@@ -42,6 +42,37 @@
 <td >More than 100000+ Books</td>
 <td >100% Secure Payment</td>
 	</tr></table>
+<br>
+<h2>Featured Products</h2>
+<div class="container">
+<table   id="t01"  width="990" border="0" align="center">
+ 
+    <tr height="400">
+      <td width="400"><a href="#hero"><img src="9780241491515.jpg" class="img1" width="200" height="300"  /></a>
+      	<p>BECOMING <br>LKR 4600.00</p><input type="submit" value="Add to Cart"></td>
+      <td width="400"><a href="#about"><img src="81h2gWPTYJL.jpg" class="img1" width="200" height="300" />
+      <p>BECOMING <br>LKR 4600.00</p><input type="submit" value="Add to Cart"></td>
+       <td width="400"><a href="#Join"><img src="90264_1_large.jpg" class="img1" width="200" height="300" />
+       <p>BRIGERTION <br>LKR 1750.00</p><input type="submit" value="Add to Cart"></td>
+       <td width="500"><a href="#t2017"><img src="81E9oNSK3bL.jpg"  class="img1" width="200" height="300"/>
+       <p>LIFE OF PI <br>LKR 2000.00</p><input type="submit" value="Add to Cart"></td>
+    </tr>
+  </table>
+
+<table  id="t01"  width="990" border="0" align="center">
+   <tr height="400">
+      <td width="500"><a href="#t2017"><img src="51D0z11Fl0L._SL500_.jpg"  class="img1" width="200" height="300"/>
+      	<p>THE HANDMAID'S TALE <br>LKR 2100.00</p><input type="submit" value="Add to Cart"></td>
+      <td width="400"><a href="#t2016"><img src="got_hc1.jpg" class="img1"width="200" height="300"/>
+      	<p>A GAME OF THRONES <br>LKR 3700.00</p><input type="submit" value="Add to Cart"></td>
+       <td width="400"><a href="#t2015"><img src="index.jpg" class="img1" width="200" height="300"/>
+       	<p>HARRY POTTR AND THE DEATHLY HALLOWS <br>LKR 2400.00</p><input type="submit" value="Add to Cart"></td>
+       <td width="400"><a href="#t2015"><img src="artworks-000150899127-nng6af-t500x500.jpg" class="img1" width="200" height="300"/>
+       	<p>LONE SURVIVOR <br>LKR 1800.00</p><input type="submit" value="Add to Cart"></td>
+    </tr>
+
+    
+  </table> 
 
 
  <br>
