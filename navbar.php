@@ -29,7 +29,7 @@
 <div class="navbar">
   <a href="home.php">Home</a>
   <a href="#news">News</a>
-<a href="#news">About</a>
+<a href="aboutus.php">About</a>
 <input type="text" placeholder="Search Products here ">
 </div>
 <br><br><br>
