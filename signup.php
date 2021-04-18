@@ -10,25 +10,26 @@
 
 <?php include 'navbar.php'?>
 
+<<<<<<< HEAD
 <form ... onsubmit="return checkForm(this);">
 	<h1 align="center">User Registration</h1>
+=======
+<form method="post" action="tables/register.php" onsubmit="return checkForm(this);" style="background-image: url(Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
+>>>>>>> c5d7a5fc6d322c17150f23d83b0af2d3c45d3690
 <table  class="login"  align="center" >
 <tr><th colspan=2></th></tr>
 
-<tr><td><h4>User Name</h4></td><td><input type="text" name="username" placeholder="User Name"></td></tr><br>
+<tr><td><h4>User Name</h4></td><td><input type="text" name="uname" placeholder="User Name"></td></tr><br>
 
 
-<tr><td><h4>Gender</h4></td><td><h5><input type="radio" name="gender" value="male" checked> Male
-<input type="radio" name="gender" value="female"> Female</h5></td></tr>
 
+<tr><td><h4>E-mail</h4></td><td><input type="text" name="email" placeholder=" E-mail"></td></tr>
 
-<tr><td><h4>E-mail</h4></td><td><input type="text" name="em" placeholder=" E-mail"></td></tr>
+<tr><td><h4>Phone</h4></td><td><input type="text" name="pno" placeholder="Phone number"></td></tr>
 
-<tr><td><h4>Phone</h4></td><td><input type="number" name"ph" placeholder="Phone number"></td></tr>
+<tr><td><h4>Password</h4></td><td><input type="password"  name="pass"></td></tr>
 
-<tr><td><h4>Password</h4></td><td><input type="password"  name="pwd1"></td></tr>
-
-<tr><td><h4>Conform password</h4></td><td><input type="password" name="pwd2"></td></tr>
+<tr><td><h4>Confirm password</h4></td><td><input type="password" name="pwd2"></td></tr>
 
 <tr><td><h6><input name="agree" type="checkbox"> I Agree to the terms</h6></td>
 <td>
