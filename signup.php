@@ -6,13 +6,14 @@
 <script src="signup.js"></script>
 
 </head>
-<body>
+<body style="background-image: url(Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
 
 <?php include 'navbar.php'?>
 
-<form ... onsubmit="return checkForm(this);" style="background-image: url(Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
+<form ... onsubmit="return checkForm(this);">
+	<h1 align="center">User Registration</h1>
 <table  class="login"  align="center" >
-<tr><th colspan=2><h1>Create Account</h1></th></tr>
+<tr><th colspan=2></th></tr>
 
 <tr><td><h4>User Name</h4></td><td><input type="text" name="username" placeholder="User Name"></td></tr><br>
 
