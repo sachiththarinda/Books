@@ -8,11 +8,15 @@
 
 
 </head>
-<body>
+<body style="background-image: url(Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
 
 <?php include 'navbar.php'?>
 
+<<<<<<< HEAD
 <form ... onsubmit="return checkForm(this);" style="background-image: url(images/Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
+=======
+<form ... onsubmit="return checkForm(this);">
+>>>>>>> e90f9e0d4e18a13cd3a8852704e70f553a590bff
     <h1 align="center">Customer Login</h1>
 <table  class="login"  align="center" >
 <tr><th colspan=2></th></tr>

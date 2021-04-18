@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head></head>
+<body  style="background-image: url(Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;"> 
+
+<?php include 'navbar.php'?>
+
+<section style="background: rgba(44,62,80,0.92);,font-family: Monospace,Lucida Console;,font-size: 30px;,
+font-weight: bold;">
 	
-<h1>About Sarasavi Bookshop</h1>
-<h2>Sarasavi.lk - Online bookstore</h2>
+<h1>About Bookshop</h1>
+<h2><a href=""> Bigbadwolf.lk</a> - Online bookstore</h2>
 <br><br>
 <p>Sarasavi.lk is a website for an extensive collection of books, stationery and magazines. Not only a “one-stop shop” for book lovers but also an interactive and innovative destination designed to make it fun and exciting to discover and shop for new books and gifts online.
 Company Profile
@@ -112,11 +118,7 @@ The Gratiean Prize
 Fairway Literary Award
 <br><br>
 2016 Best OrginalSinhala) Novel - "Maha Ravana" by Tennyson Perera Compiled by P.Wickramage
-<br><br></p>
-</head>
-<body>
-
-<?php include 'navbar.php'?>
+<br><br></p></section>
 
 
 
