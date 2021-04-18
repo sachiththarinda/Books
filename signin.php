@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-<link rel="stylesheet" type="text/css" href="signin.css">
+<link rel="stylesheet" type="text/css" href="css/signin.css">
 <script src="signin.js"></script>
 
 
@@ -12,7 +12,7 @@
 
 <?php include 'navbar.php'?>
 
-<form ... onsubmit="return checkForm(this);" style="background-image: url(Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
+<form ... onsubmit="return checkForm(this);" style="background-image: url(images/Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
     <h1 align="center">Customer Login</h1>
 <table  class="login"  align="center" >
 <tr><th colspan=2></th></tr>
