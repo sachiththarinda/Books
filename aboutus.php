@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head></head>
-<body  style="background-image: url(Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;"> 
+<body  style="background-image: url(images/Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;"> 
 
 <?php include 'navbar.php'?>
 
