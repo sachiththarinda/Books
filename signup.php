@@ -6,7 +6,7 @@
 <script src="signup.js"></script>
 
 </head>
-<body style="background-image: url(images/Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
+
 
 <?php include 'navbar.php'?>
 
@@ -15,9 +15,6 @@
 
 <form ... onsubmit="return checkForm(this);">
 	<h1 align="center">User Registration</h1>
-
-
-
 
 
 

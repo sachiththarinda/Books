@@ -1,7 +1,11 @@
-function checkForm(form)
+function checkForm2(form)
   {
-    if(form.username.value == "") {
+    if(form.uname.value == "") {
       alert("Error: Username cannot be blank!");
-      form.username.focus();
+      form.uname.focus();
       return false;
     }
+    else{
+      return true;
+    }
+  }
