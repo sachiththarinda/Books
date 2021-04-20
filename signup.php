@@ -10,12 +10,9 @@
 
 <?php include 'navbar.php'?>
 
-<<<<<<< HEAD
 <form ... onsubmit="return checkForm(this);">
 	<h1 align="center">User Registration</h1>
-=======
 <form method="post" action="tables/register.php" onsubmit="return checkForm(this);" style="background-image: url(Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
->>>>>>> c5d7a5fc6d322c17150f23d83b0af2d3c45d3690
 <table  class="login"  align="center" >
 <tr><th colspan=2></th></tr>
 
