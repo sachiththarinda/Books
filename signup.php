@@ -2,17 +2,25 @@
 <html>
 <head>
 	
-<link rel="stylesheet" type="text/css" href="signup.css">
+<link rel="stylesheet" type="text/css" href="css/signup.css">
 <script src="signup.js"></script>
 
 </head>
-<body style="background-image: url(Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
+<body style="background-image: url(images/Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
 
 <?php include 'navbar.php'?>
 
+<form method="post" action="tables/register.php" onsubmit="return checkForm(this);" style="background-image: url(images/Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
+
+
 <form ... onsubmit="return checkForm(this);">
 	<h1 align="center">User Registration</h1>
-<form method="post" action="tables/register.php" onsubmit="return checkForm(this);" style="background-image: url(Harry-Potter-Book-List_BL_16-9.jpg.corpimagerendition.xxl.1400.788.png);,background-size: cover;">
+
+
+
+
+
+
 <table  class="login"  align="center" >
 <tr><th colspan=2></th></tr>
 
