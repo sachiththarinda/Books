@@ -1,3 +1,12 @@
+<?php
+session_start();
+
+$mysql= new mysqli ("localhost","root","","list") or die (mysqli_connect_error());
+if(isset($_SESSION['id'])){
+  $id=$_SESSION['id'];
+}
+?>
+
 <!DOCTYPE html>
 <html>
 <head></head>

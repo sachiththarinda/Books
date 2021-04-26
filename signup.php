@@ -10,10 +10,10 @@
 
 <?php include 'navbar.php'?>
 
-<form method="post" action="tables/register.php" onsubmit="return checkForm(this);" style="background-size: cover;">
+<form method="post" action="tables/register.php" onsubmit="return checkForm(this);" >
 
 
-<form ... onsubmit="return checkForm(this);">
+<form ... onsubmit="return checkForm(this);" style="background-size: cover;">
 	<h1 align="center">User Registration</h1>
 
 

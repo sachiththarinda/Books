@@ -1,0 +1,43 @@
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    background-size: cover; /* Add this line */
+    background-position: center center; /* Add this line */
+    background-repeat: no-repeat; /* Add this line */
+    background-attachment: fixed; /* Add this line */
+}
+
+#hero .profile-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+#about .profile-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+#Join .profile-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+#t2015 .profile-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+#t2016 .profile-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+#t2017 .profile-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
